@@ -5,7 +5,9 @@
  */
 
 const flattenArray = (array) => {
-    
+  /*
+    implement your code here
+  */
 };
 
 const origin = [1, undefined, [3, 4], 5, [6, [7, 8]]];
